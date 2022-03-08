@@ -1,0 +1,74 @@
+header{
+	text-align: center;
+	background-color:LightBlue;
+	color:olive;
+}
+html{
+	height:100%;
+	width:100%;
+}
+body{
+	height:100%;
+	width:100%;
+}
+
+#top{
+	position:fixed;
+	background-color:rgba(255,0,0,0.3);
+	height:16%;
+	width:100%;	
+	color: black;
+}
+
+/**/
+h1{
+	margin:2px;
+	background-color:green;
+	color:lightblue;
+	padding: 3px;
+}
+footer{
+	height: 5%;
+	width:100%;
+	background-color:orange;
+}
+h3{
+	color:black;
+}
+
+nav{
+	background-color:AliceBlue ;
+	text-align:top;
+	height:40%;
+	width:100%;
+	color:blue;
+	padding:10px;
+}
+
+section	{
+	background-color:rgb(255,255,0);
+	height:30%;
+	width:100%;
+	text-align:top;
+	color:purple;
+	display:inline-table;
+}
+
+aside{
+	text-align:right;
+}
+
+div{
+	background-color:lightblue;
+	padding:5px;
+}
+.phone{
+	color:red;
+}
+.Email{
+	color:green;
+}
+#top li.l1 ul{
+	margin:0px;
+	padding:0px;
+}
